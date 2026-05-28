@@ -48,7 +48,7 @@ body::before {
 }
 @font-face {
     font-family: 'independence.OTF';
-    src: url(font/independence.otf) format('opentype');
+    src: url(font/independence.OTF) format('opentype');
 }
 @font-face {
     font-family: 'vinasans.otf';
