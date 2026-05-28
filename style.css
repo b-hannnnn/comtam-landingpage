@@ -99,7 +99,7 @@ nav.scrolled {
     padding: 14px 48px;
 }
 .nav-logo {
-    font-family: 'independence.otf', sans-serif;
+    font-family: 'independence', sans-serif;
     font-size:25px;
     font-weight:600;
     color:var(--cream);
